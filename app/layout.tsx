@@ -19,14 +19,14 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Waymeet — Meet Travelers. Share Adventures.",
+  title: "Waymeet — Go somewhere. Find your people.",
   description:
-    "Waymeet is the social platform built for explorers. Connect with fellow travelers, share stories, and discover your next destination.",
+    "Waymeet brings travelers together through shared stories, nearby discovery, chat, and profiles. See actual screens from the Android app.",
   keywords: ["travel", "social", "meet travelers", "adventure", "explore"],
   openGraph: {
-    title: "Waymeet — Meet Travelers. Share Adventures.",
+    title: "Waymeet — Go somewhere. Find your people.",
     description:
-      "Connect with fellow travelers, share stories, and discover your next destination.",
+      "Share travel stories, discover people nearby, and keep the conversation going.",
     type: "website",
   },
 };
